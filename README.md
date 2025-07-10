@@ -39,11 +39,11 @@ Coming soon
 
 If you find PhysX useful for your work please cite:
 ```
-@article{cao2023large,
-  title={Large-Vocabulary 3D Diffusion Model with Transformer},
-  author={Cao, Ziang and Hong, Fangzhou and Wu, Tong and Pan, Liang and Liu, Ziwei},
-  journal={arXiv preprint arXiv:2309.07920},
-  year={2023}
+@article{cao2025PhysX,
+  title={PhysX: Physical-Grounded 3D Asset Generation},
+  author={Cao, Ziang and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
+  journal={arXiv preprint arXiv:},
+  year={2025}
 }
 ```
 ### Acknowledgement
