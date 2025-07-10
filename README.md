@@ -46,7 +46,7 @@ If you find PhysX useful for your work please cite:
   year={2023}
 }
 ```
-##### Acknowledgement
+### Acknowledgement
 
 The data and code is based on [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive) and [TRELLIS](https://github.com/microsoft/TRELLIS). We would like to express our sincere thanks to the contributors.
 
