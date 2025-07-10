@@ -2,6 +2,13 @@
 <h1>PhysX: Physical-Grounded 3D Asset Generation
 </h1>
 
+<p align="center"><a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+<a href='https://ziangcao0312.github.io/physx_web/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<a href='https://huggingface.co/datasets/Caoza/PhysX'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
+<a href='https://youtu.be/M5V_c0Duuy4'><img src='https://img.shields.io/youtube/views/M5V_c0Duuy4'></a>
+    
+</p>
+
 <div>
     <a href="https://ziangcao0312.github.io/" target="_blank">Ziang Cao</a><sup>1</sup>,
     <a href="https://frozenburning.github.io/" target="_blank">Zhaoxi Chen</a><sup>1</sup>,
@@ -12,13 +19,6 @@
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Shanghai AI Laboratory
 </div>
 <div>
-    <a href="https://arxiv.org/pdf/" target="_blank">Paper</a> |
-     <a href="https://huggingface.co/datasets/Caoza/PhysX" target="_blank">Data</a> |
-    <a href="https://ziangcao0312.github.io/physx_web/" target="_blank">Project page</a> |
-    <a href="https://youtu.be/M5V_c0Duuy4" target="_blank">Video</a> | 
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziangcao0312%2FDiffTF&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-</div>
-
 
 
 <strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
@@ -57,4 +57,4 @@ The data and code is based on [PartNet]([ShapeNet/PartNet-archive · Datasets at
 
 Distributed under the S-Lab License. See `LICENSE` for more information.
 
-<a href="https://info.flagcounter.com/fLUn"><img src="https://s01.flagcounter.com/map/fLUn/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/ukVw"><img src="https://s01.flagcounter.com/map/ukVw/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
