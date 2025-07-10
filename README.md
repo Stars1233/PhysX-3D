@@ -3,12 +3,9 @@
 </h1>
 
 <p align="center"><a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
-<a href='https://ziangcao0312.github.io/physx_web/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<a href='https://ziangcao0312.github.io/physx_web/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=homepage&logoColor=white' alt='Project Page'></a>
 <a href='https://huggingface.co/datasets/Caoza/PhysX'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 <a href='https://youtu.be/M5V_c0Duuy4'><img src='https://img.shields.io/youtube/views/M5V_c0Duuy4'></a>
-    
-</p>
-
 <div>
     <a href="https://ziangcao0312.github.io/" target="_blank">Ziang Cao</a><sup>1</sup>,
     <a href="https://frozenburning.github.io/" target="_blank">Zhaoxi Chen</a><sup>1</sup>,
