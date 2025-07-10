@@ -1,4 +1,5 @@
 <div align="left">
+
 <h1 align="center">PhysX: Physical-Grounded 3D Asset Generation
 </h1>
 
@@ -7,23 +8,22 @@
 <a href='https://huggingface.co/datasets/Caoza/PhysX'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 <a href='https://youtu.be/M5V_c0Duuy4'><img src='https://img.shields.io/youtube/views/M5V_c0Duuy4'></a>
 
-<div>
+<div align="center">
     <a href="https://ziangcao0312.github.io/" target="_blank">Ziang Cao</a><sup>1</sup>,
     <a href="https://frozenburning.github.io/" target="_blank">Zhaoxi Chen</a><sup>1</sup>,
     <a href="https://github.com/paul007pl" target="_blank">Liang Pan</a><sup>2</sup>,
     <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>1</sup>
 </div>
-<div>
+<div align="center">
     <sup>1</sup>S-Lab, Nanyang Technological University&emsp; <sup>2</sup>Shanghai AI Laboratory
 </div>
 <div>
 
-
-<strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
-
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/teaser.png">
 </div>
+
+<strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
 
 :open_book: For more visual results, go checkout our <a href="https://ziangcao0312.github.io/physx_web/" target="_blank">project page</a>
 
