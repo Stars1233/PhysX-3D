@@ -1,5 +1,5 @@
 <div align="center">
-<h1>PhysX: Physical-Grounded 3D Asset Generation
+<h1 align="center">PhysX: Physical-Grounded 3D Asset Generation
 </h1>
 
 <p align="center"><a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
@@ -25,7 +25,6 @@
 </div>
 
 :open_book: For more visual results, go checkout our <a href="https://ziangcao0312.github.io/physx_web/" target="_blank">project page</a>
-</div>
 
 ## PhysXNet & PhysXNet-XL
 
