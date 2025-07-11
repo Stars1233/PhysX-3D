@@ -54,4 +54,7 @@ The data and code is based on [PartNet](https://huggingface.co/datasets/ShapeNet
 
 Distributed under the S-Lab License. See `LICENSE` for more information.
 
-<a href="https://info.flagcounter.com/ukVw"><img src="https://s01.flagcounter.com/map/ukVw/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<div style="text-align: center;">
+  <a href="https://info.flagcounter.com/ukVw"><img src="https://s01.flagcounter.com/map/ukVw/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+</div>
+
