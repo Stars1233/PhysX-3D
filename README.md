@@ -25,7 +25,7 @@
 
 <strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
 
-:open_book: For more visual results, go checkout our <a href="https://ziangcao0312.github.io/physx_web/" target="_blank">project page</a>
+:open_book: For more visual results, go checkout our <a href="https://physx-3d.github.io/" target="_blank">project page</a>
 
 ## PhysXNet & PhysXNet-XL
 
@@ -57,4 +57,3 @@ Distributed under the S-Lab License. See `LICENSE` for more information.
 <div align="center">
   <a href="https://info.flagcounter.com/ukVw"><img src="https://s01.flagcounter.com/map/ukVw/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </div>
-
