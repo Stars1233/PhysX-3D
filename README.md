@@ -3,7 +3,7 @@
 <h1 align="center">PhysX: Physical-Grounded 3D Asset Generation
 </h1>
 
-<p align="center"><a href="https://arxiv.org/abs/"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+<p align="center"><a href="https://arxiv.org/abs/2507.12465"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://physx-3d.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=homepage&logoColor=white' alt='Project Page'></a>
 <a href='https://huggingface.co/datasets/Caoza/PhysX'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 <a href='https://youtu.be/M5V_c0Duuy4'><img src='https://img.shields.io/youtube/views/M5V_c0Duuy4'></a>
@@ -39,10 +39,10 @@ Coming soon
 
 If you find PhysX useful for your work please cite:
 ```
-@article{cao2025PhysX,
+@article{cao2025physx,
   title={PhysX: Physical-Grounded 3D Asset Generation},
   author={Cao, Ziang and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2507.12465},
   year={2025}
 }
 ```
