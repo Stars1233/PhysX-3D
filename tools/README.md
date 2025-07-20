@@ -48,4 +48,4 @@ python retrieval_texture_example.py
 
 Since the original meshes in ShapeNet are similar in shape to the meshes in PartNet, the nearest texture information can be obtained based on their coordinate correspondence.
 
-**Note**: finalindex.json is obtain from the metadata of [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive)
+**Note**: finalindex.json is obtained from the metadata of PartNet.
