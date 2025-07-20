@@ -1,7 +1,7 @@
 <div align="left">
-
-<h1 align="center">PhysX: Physical-Grounded 3D Asset Generation
+<h1 align="center">PhysX-3D: Physical-Grounded 3D Asset Generation
 </h1>
+
 
 <p align="center"><a href="https://arxiv.org/abs/2507.12465"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://physx-3d.github.io/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=homepage&logoColor=white' alt='Project Page'></a>
@@ -29,7 +29,7 @@
 
 ## PhysXNet & PhysXNet-XL
 
-For more details about our proposed dataset, please see this [link](https://huggingface.co/datasets/Caoza/PhysX)
+For more details about our proposed dataset, please see this [link](https://huggingface.co/datasets/Caoza/PhysX-3D)
 
 ## PhysGen 
 
@@ -39,8 +39,8 @@ Coming soon
 
 If you find PhysX useful for your work please cite:
 ```
-@article{cao2025physx,
-  title={PhysX: Physical-Grounded 3D Asset Generation},
+@article{cao2025physx-3d,
+  title={PhysX-3D: Physical-Grounded 3D Asset Generation},
   author={Cao, Ziang and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
   journal={arXiv preprint arXiv:2507.12465},
   year={2025}
