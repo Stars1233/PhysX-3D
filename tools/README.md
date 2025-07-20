@@ -28,7 +28,7 @@ Manually select the candidate axes and points for B, C, and D
 
 
 
-## Texture retrieval
+## Texture retrieval for PhysXNet
 
 Since [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive) has no texture information, you need to download the [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) dataset and save it to `./shapenet` to obtain texture information. 
 
