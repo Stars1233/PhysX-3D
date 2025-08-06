@@ -84,13 +84,9 @@ if __name__ == "__main__":
 
     shapenetpath='./shapenet'
     
-    save_dir='./output_physxnet'
     mergemeshpath='./phy_dataset'
 
-
-    namelist=os.listdir(os.path.join(save_dir,'finaljson'))
-
-    logger = get_logger(os.path.join(save_dir,'exp_texture'+str(args.index)+'.log'),verbosity=1)
+    logger = get_logger(os.path.join('exp_texture'+str(args.index)+'.log'),verbosity=1)
 
     logger.info('start')
 
