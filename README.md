@@ -35,7 +35,53 @@ The scripts for annotation and obtaining texture information are located in `./t
 
 ## PhysGen 
 
-Coming soon
+### Training
+
+1. Download and preprocess the PhysXNet Dataset
+
+```bash
+huggingface-cli download Caoza/PhysX-3D PhysXNet.zip --repo-type dataset --local-dir ./dataset_toolkits/
+cd dataset_toolkits
+unzip PhysXNet.zip -d physxnet
+```
+
+**Note:**  Since [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive) has no texture information, you need to download the [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) dataset and save it to `./dataset_toolkits/shapenet` to obtain texture information. 
+
+```bash
+bash precess.sh
+```
+
+2. VAE training
+
+```python
+python train.py 
+     --config configs/vae/slat_vae_enc_dec_mesh_phy.json 
+     --output_dir outputs/vae_phy 
+     --data_dir ./datasets/PhysXGen 
+```
+
+3. Diffusion training
+
+```
+python train.py 
+     --config configs/generation/slat_flow_img_dit_L_phy.json 
+     --output_dir outputs/diffusion_phy 
+     --data_dir ./datasets/PhysXGen 
+```
+
+### Inference
+
+1. Download the pre-train model from huggingface.
+
+```bash
+bash download_pretrain.sh
+```
+
+2. Run the inference code
+
+```bash
+python example.py
+```
 
 ## References
 
