@@ -62,7 +62,7 @@ python train.py
 
 3. Diffusion training
 
-```
+```python
 python train.py 
      --config configs/generation/slat_flow_img_dit_L_phy.json 
      --output_dir outputs/diffusion_phy 
