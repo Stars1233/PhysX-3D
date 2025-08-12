@@ -33,7 +33,7 @@ For more details about our proposed dataset, please see this [link](https://hugg
 
 The scripts for annotation and obtaining texture information are located in `./tools`.
 
-## PhysGen 
+## PhysXGen 
 
 ### Training
 

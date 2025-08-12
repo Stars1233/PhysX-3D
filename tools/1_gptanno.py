@@ -146,12 +146,12 @@ if __name__ == "__main__":
                         (7) The target part uses red color while the other parts use grey color.
                         (8) You should output full JSON including all parts. 
                         '''
-                old="Analyze the "+str(num_part)+" parts of a 3D object. Each image includes one part. From the first to last image part names are"+partname+". Just output the object-level and part-level information for this object in JSON."
+                prompt="Analyze the "+str(num_part)+" parts of a 3D object. Each image includes one part. From the first to last image part names are"+partname+". Just output the object-level and part-level information for this object in JSON."
                 
                 content=[
                             {
                                 "type": "text",
-                                "text": old,
+                                "text": prompt,
                             },      
                         ]
 
