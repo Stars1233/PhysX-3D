@@ -29,7 +29,7 @@
 
 ## PhysXNet & PhysXNet-XL
 
-For more details about our proposed dataset, please see this [link](https://huggingface.co/datasets/Caoza/PhysX-3D)
+For more details about our proposed dataset including dataset structure and annotation, please see this [link](https://huggingface.co/datasets/Caoza/PhysX-3D)
 
 The scripts for annotation and obtaining texture information are located in `./tools`.
 
