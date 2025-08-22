@@ -35,6 +35,21 @@ The scripts for annotation and obtaining texture information are located in `./t
 
 ## PhysXGen 
 
+### Installation
+
+1. Clone the repo:
+
+```
+git clone --recurse-submodules https://github.com/ziangcao0312/PhysX-3D.git
+cd PhysX-3D 
+```
+
+2. Create a new conda environment named `physxgen` and install the dependencies:
+
+```bash
+. ./setup.sh --new-env --basic --xformers --flash-attn --diffoctreerast --spconv --mipgaussian --kaolin --nvdiffrast
+```
+
 ### Training
 
 1. Download and preprocess the PhysXNet Dataset
