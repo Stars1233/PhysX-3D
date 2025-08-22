@@ -50,6 +50,8 @@ cd PhysX-3D
 . ./setup.sh --new-env --basic --xformers --flash-attn --diffoctreerast --spconv --mipgaussian --kaolin --nvdiffrast
 ```
 
+**Note**: The detailed usage of `setup.sh` can be found at [TRELLIS](https://github.com/microsoft/TRELLIS)
+
 ### Training
 
 1. Download and preprocess the PhysXNet Dataset
