@@ -74,7 +74,7 @@ bash precess.sh
 python train.py 
      --config configs/vae/slat_vae_enc_dec_mesh_phy.json 
      --output_dir outputs/vae_phy 
-     --data_dir ./datasets/PhysXGen 
+     --data_dir ./datasets/PhysXNet 
 ```
 
 3. Diffusion training
@@ -83,7 +83,7 @@ python train.py
 python train.py 
      --config configs/generation/slat_flow_img_dit_L_phy.json 
      --output_dir outputs/diffusion_phy 
-     --data_dir ./datasets/PhysXGen 
+     --data_dir ./datasets/PhysXNet 
 ```
 
 ### Inference
