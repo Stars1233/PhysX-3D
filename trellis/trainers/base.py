@@ -130,7 +130,7 @@ class Trainer:
                 project="phy_gen",
                 config={
                 "max_steps": 1000000,
-                "dataset": "Partnet",
+                "dataset": "PhysXNet",
                 }
             )
 
