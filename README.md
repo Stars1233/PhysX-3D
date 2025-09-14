@@ -104,7 +104,7 @@ python example.py
 
 If you find PhysX useful for your work please cite:
 ```
-@article{cao2025physx-3d,
+@article{cao2025physx,
   title={PhysX-3D: Physical-Grounded 3D Asset Generation},
   author={Cao, Ziang and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
   journal={arXiv preprint arXiv:2507.12465},
