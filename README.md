@@ -23,6 +23,8 @@
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/teaser.png">
 </div>
+
+
 ## 🏆 Publications
 
 - Our paper has been accepted to **NeurIPS 2025 (Spotlight)** 🎉
