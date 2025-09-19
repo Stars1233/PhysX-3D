@@ -23,7 +23,8 @@
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/teaser.png">
 </div>
-### 🏆 Publications
+## 🏆 Publications
+
 - Our paper has been accepted to **NeurIPS 2025 (Spotlight)** 🎉
 
 <strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
