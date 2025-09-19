@@ -1,6 +1,7 @@
 <div align="left">
-<h1 align="center">PhysX-3D: Physical-Grounded 3D Asset Generation
+<h1 align="center">PhysX-3D: Physical-Grounded 3D Asset Generation 
 </h1>
+
 
 
 <p align="center"><a href="https://arxiv.org/abs/2507.12465"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
@@ -22,6 +23,8 @@
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/teaser.png">
 </div>
+### 🏆 Publications
+- Our paper has been accepted to **NeurIPS 2025 (Spotlight)** 🎉
 
 <strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
 
