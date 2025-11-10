@@ -23,21 +23,26 @@
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="img/teaser.png">
 </div>
-
-
-## 🏆 Publications
-
-- Our paper has been accepted to **NeurIPS 2025 (Spotlight)** 🎉
-
 <strong>PhysX provides a new end-to-end paradigm for physical-grounded 3D asset generation.</strong>
 
 :open_book: For more visual results, go checkout our <a href="https://physx-3d.github.io/" target="_blank">project page</a>
+
+## 🏆 News
+
+- Our paper has been accepted to **NeurIPS 2025 (Spotlight)** 🎉
+- **We provide a script for converting our JSON annotations into URDF format** 🎉 See `urdf_gen.py`.
 
 ## PhysXNet & PhysXNet-XL
 
 For more details about our proposed dataset including dataset structure and annotation, please see this [link](https://huggingface.co/datasets/Caoza/PhysX-3D)
 
 The scripts for annotation and obtaining texture information are located in `./tools`.
+
+Run this script to convert our json files to URDF.
+
+```python
+python urdf_gen.py
+```
 
 ## PhysXGen 
 
@@ -68,7 +73,7 @@ cd dataset_toolkits
 unzip PhysXNet.zip -d physxnet
 ```
 
-**Note:**  Since [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive) has no texture information, you need to download the [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) dataset and save it to `./dataset_toolkits/shapenet` to obtain texture information. 
+**Note:**  Since [PartNet](https://huggingface.co/datasets/ShapeNet/PartNet-archive) has no texture information, you need to download the [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore) dataset and save it to `./dataset_toolkits/shapenet` to obtain texture information. The validation (first 1k samples) and test (last 1k samples) splits are stored in `val_test_list.npy`.
 
 ```bash
 bash precess.sh
