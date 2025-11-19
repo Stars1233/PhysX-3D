@@ -84,7 +84,7 @@ def draw_heatmap(data,max=1,min=0.0):
 jsonpath='./PhysXNet/finaljson'
 meshpath='./PhysXNet/partseg'
 
-namelist=np.load('./testset.npy') #testlist
+namelist=np.load('./val_test_list.npy') #testlist
 
 for name in namelist:
     with open(os.path.join(jsonpath,name+'.json'),'r') as fp:
