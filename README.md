@@ -127,7 +127,7 @@ PSNR for density, affordance, and description maps;
 
 [Instantiation distance](https://github.com/JiahuiLei/NAP) for kinematics;
 
-**Note:**  To implement fair evaluation, [PhysX-Anything](https://github.com/ziangcao0312/PhysX-Anything) introduces a VLM-based evaluation for kinematics.
+**Note:**  [PhysX-Anything](https://github.com/ziangcao0312/PhysX-Anything) introduces a VLM-based evaluation for kinematics to achieve more flexible and fair evaluation.
 
 ## References
 
