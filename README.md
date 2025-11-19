@@ -111,6 +111,24 @@ bash download_pretrain.sh
 python example.py
 ```
 
+### Evaluation
+
+1. Run the example script
+
+```bash
+python example_render_gt_foreval.py
+```
+
+2. Calculate the metrics:
+
+Euclidean distance for absolute scale; 
+
+PSNR for density, affordance, and description maps; 
+
+[Instantiation distance](https://github.com/JiahuiLei/NAP) for kinematics;
+
+**Note:**  To implement fair evaluation, [PhysX-Anything](https://github.com/ziangcao0312/PhysX-Anything) introduces a VLM-based evaluation for kinematics.
+
 ## References
 
 If you find PhysX useful for your work please cite:
@@ -119,6 +137,13 @@ If you find PhysX useful for your work please cite:
   title={PhysX-3D: Physical-Grounded 3D Asset Generation},
   author={Cao, Ziang and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
   journal={arXiv preprint arXiv:2507.12465},
+  year={2025}
+}
+
+@article{physxanything,
+  title={PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image},
+  author={Cao, Ziang and Hong, Fangzhou and Chen, Zhaoxi and Pan, Liang and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2511.13648},
   year={2025}
 }
 ```
