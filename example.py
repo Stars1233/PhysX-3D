@@ -240,6 +240,7 @@ for i in range(len(video['rendervis'])):
     
 
 print('Physical scale: ',phy[...,0].mean().detach().cpu().numpy())
+imageio.mimsave(os.path.join(savepath,"rgb.mp4"), video['color'], fps=30)
 imageio.mimsave(os.path.join(savepath,"affordance.mp4"), video1, fps=30)
 imageio.mimsave(os.path.join(savepath,"material.mp4"), video2, fps=30)
 imageio.mimsave(os.path.join(savepath,"description.mp4"), video3, fps=30)
